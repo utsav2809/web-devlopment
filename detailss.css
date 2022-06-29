@@ -1,0 +1,26 @@
+
+h1{
+    background-color:rgba(0, 28, 128, 0.505);
+    padding: 20px;
+    text-align: center
+}
+table{
+    
+    padding: 5px 10px 15px 20px;
+    border: 3px solid black;
+}
+h3{
+    color: blueviolet;
+}
+
+    
+body {
+    font-family: cursive;
+    margin: 15px 30px;
+    font-size: 25px;
+    padding: 100px;
+
+}
+button {
+    color:darkgreen
+}

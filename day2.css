@@ -1,0 +1,26 @@
+h1{
+    background-color: purple;
+    padding: 20px;
+    text-align: center;
+
+}
+.container {
+    background-color:white;
+    padding: 5px 10px 15px 20px;
+    border: 3px solid red;
+    border-radius: 4px;
+}
+body {
+    font-family: cursive;
+    margin: 15px 30px;
+    font-size: 25px;
+    padding: 100px;
+
+}
+button{
+    background-color:burlywood;
+    padding: 12px;
+    width: 400px;
+    text-align: center;
+    
+}
